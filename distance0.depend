@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537998254 source:c:\codeblocks\distance0\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+
